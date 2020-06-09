@@ -1,6 +1,6 @@
 allprojects {
-    group = 'com.github.mariotaku.ExportablePreferences'
-    version = '0.9.7'
+    group = 'com.github.tlaster.ExportablePreferences'
+    version = '0.9.8'
 }
 
 subprojects {
